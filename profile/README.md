@@ -13,5 +13,5 @@ Somos a área responsável pelo desenvolvimento de soluções internas voltadas 
 
 ## Nossas Tecnologias
 
-- **Atlas** - [App Centralizador](https://github.com/Team-Data-Management/App-Centralizador)
-- **Site ProgramaDeEstagio** - [ProgramaDeEstagio2026](https://github.com/Team-Data-Management/ProgramaDeEstagio2026) 
+- **Atlas** - [Atlas](https://github.com/Team-Data-Management/Atlas)
+- **Site estagioWorldpanel** - [estagioWorldpanel](https://github.com/Team-Data-Management/estagioWorldpanel) 
