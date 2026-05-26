@@ -1,12 +1,17 @@
-## Hi there 👋
+## Team Data Management
 
-<!--
+Bem-vindo ao repositório da Team Data Management.
 
-**Here are some ideas to get you started:**
+Estamos sempre desenvolvendo soluções para transformar processos manuais em fluxos inteligentes.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Somos a área responsável pelo desenvolvimento de soluções internas voltadas para:
+
+- automação de processos;
+- tratamento e padronização de dados;
+- gestão e transformação de arquivos;
+- ferramentas operacionais
+
+## Nossas Tecnologias
+
+- **Atlas** - ![App Centralizador](https://github.com/Team-Data-Management/App-Centralizador)
+- **Site ProgramaDeEstagio** - ![ProgramaDeEstagio2026](https://github.com/Team-Data-Management/ProgramaDeEstagio2026) 
