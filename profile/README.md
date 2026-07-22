@@ -19,4 +19,4 @@ Somos a área responsável pelo desenvolvimento de soluções internas voltadas 
 - **Usage OCR Creation** - [Usage+OCR Creation](https://github.com/Team-Data-Management/ZArt-Usage-and-IDDOM-OCR)
 - **Flat Files Generator** - [Flat Files Generator](https://github.com/Team-Data-Management/Flat-Files-Generator)
 - **Nossas macros VBA** - [Macros](https://github.com/Team-Data-Management/Macros-VBA)
-- **ITM_CHECKER** - [Codigos](https://github.com/Team-Data-Management/ITM_CHECKER_OUTROS_FABRICANTES)
+- **OUTROS_FABRICANTES** - [Codigos](https://github.com/Team-Data-Management/OUTROS_FABRICANTES)
