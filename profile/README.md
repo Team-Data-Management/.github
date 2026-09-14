@@ -20,3 +20,4 @@ Somos a área responsável pelo desenvolvimento de soluções internas voltadas 
 - **Flat Files Generator** - [Flat Files Generator](https://github.com/Team-Data-Management/Flat-Files-Generator)
 - **Nossas macros VBA** - [Macros](https://github.com/Team-Data-Management/Macros-VBA)
 - **OUTROS_FABRICANTES** - [Codigos](https://github.com/Team-Data-Management/OUTROS_FABRICANTES)
+- **Gerador de Atas** - [Gerador_Atas](https://github.com/Team-Data-Management/Gerador-de-Atas)
