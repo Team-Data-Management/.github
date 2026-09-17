@@ -13,13 +13,14 @@ Somos a área responsável pelo desenvolvimento de soluções internas voltadas 
 
 ## Nossas Tecnologias
 
+### Hub
 - **Atlas** - [Atlas](https://github.com/Team-Data-Management/Atlas)
 
 ### Masterfile
 - **WebScraper** - [Scraper](https://github.com/Team-Data-Management/Web-Scraping)
 - **Harmoniq_Bi** - [harmoniq](https://github.com/Team-Data-Management/Harmoniq_BI)
 
-### ITEMIZAÇãO 
+### Itemização
 - **Itm_All_Rules** - [ITM](https://github.com/Team-Data-Management/ITM_ALL_RULES)
 - **Itm_Checker** - [ItmChecker](https://github.com/Team-Data-Management/ITM-CHECKER)
 - **Barcode_Checker** - [BarcodeChecker](https://github.com/Team-Data-Management/Barcode_Checker)
