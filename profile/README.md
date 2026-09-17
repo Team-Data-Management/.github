@@ -20,8 +20,10 @@ Somos a área responsável pelo desenvolvimento de soluções internas voltadas 
 - **Harmoniq_Bi** - [harmoniq](https://github.com/Team-Data-Management/Harmoniq_BI)
 
 ### ITEMIZAÇãO 
+- **Itm_All_Rules** - [ITM](https://github.com/Team-Data-Management/ITM_ALL_RULES)
+- **Itm_Checker** - [ItmChecker](https://github.com/Team-Data-Management/ITM-CHECKER)
 - **Barcode_Checker** - [BarcodeChecker](https://github.com/Team-Data-Management/Barcode_Checker)
-- **OUTROS_FABRICANTES** - [Codigos](https://github.com/Team-Data-Management/OUTROS_FABRICANTES)
+- **Outros_Fabricantes** - [Codigos](https://github.com/Team-Data-Management/OUTROS_FABRICANTES)
 
 ### Automações Power View
 - **OCR + UDF Creation** - [OCR+UDF Creation](https://github.com/Team-Data-Management/OCR-UDF-Creation)
@@ -30,6 +32,7 @@ Somos a área responsável pelo desenvolvimento de soluções internas voltadas 
 
 ### Outras Automações
 - **Gerador de Atas** - [Gerador_Atas](https://github.com/Team-Data-Management/Gerador-de-Atas)
+- **Radix_Fur_Creator** - [Radix](https://github.com/Team-Data-Management/Radix_Fur_Creator)
 
 ### Macros e Scripts VBA
 - **Macros-VBA** - [VBA](https://github.com/Team-Data-Management/Macros-VBA)
