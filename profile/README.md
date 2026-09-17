@@ -21,6 +21,7 @@ Somos a área responsável pelo desenvolvimento de soluções internas voltadas 
 - **Harmoniq_Bi** - [harmoniq](https://github.com/Team-Data-Management/Harmoniq_BI)
 
 ### Itemização
+- **ItmValidator** - [Validator](https://github.com/Team-Data-Management/ITM-VALIDATOR)
 - **Itm_All_Rules** - [ITM](https://github.com/Team-Data-Management/ITM_ALL_RULES)
 - **Itm_Checker** - [ItmChecker](https://github.com/Team-Data-Management/ITM-CHECKER)
 - **Barcode_Checker** - [BarcodeChecker](https://github.com/Team-Data-Management/Barcode_Checker)
